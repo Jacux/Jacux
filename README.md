@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    <h1>Skills</h1>
+    <h1 align='center'>Skills</h1>
     <img src="https://skillicons.dev/icons?i=html,css,js,lua" />
 </p>
 
