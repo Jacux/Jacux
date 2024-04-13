@@ -2,6 +2,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=27F77E&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+There%F0%9F%91%8B;I'm+Jacek%F0%9F%A6%95" alt="Typing SVG" />
 </h1>
+<h3 align="center">FiveM Developer and Web Developer</h3>
 
 <p align="center">
     <h1 align='center'>Skills</h1>
