@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,lua" />
+    <img src="https://skillicons.dev/icons?i=html,css,lua,js,figma,nodejs" />
 </p>
 
 # 📊GitHub Stats :
