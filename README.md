@@ -4,7 +4,8 @@
 </h1>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,lua,js,figma,nodejs" />
+    <h1>Skills</h1>
+    <img src="https://skillicons.dev/icons?i=html,css,js,lua" />
 </p>
 
 # 📊GitHub Stats :
